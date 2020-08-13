@@ -8,7 +8,7 @@ My hometown, Bogotá, has a population of close to 8 million inhabitants and is 
 According to The Economist, on an economic level, Bogotá stands out for its economic strength associated with the size of its production, the facilities to create companies and do business, financial maturity, the attraction of global companies and the quality of its human capital. It is the main market in Colombia and the Andean Region, and the first destination for foreign direct investment that reaches Colombia (70%). It has the highest nominal and per capita GDP in the country, contributing most of the national total (24.5%), and is the sixth city by size of GDP in Latin America (about USD 106 678 million) with a nominal GDP per capita of USD 11,594 and a GDP PPP per capita of USD 20,120, it is also the largest business platform in Colombia where most of the high impact ventures occur. The above reasons make Bogotá a business target for world-renowned brands.
 
 
-* compare stratification with points where international brands are located
+* Compare stratification with points where international brands are located
 
 Due to the stratification condition it is expected and as a citizen I have been able to observe that the majority of international brands that arrive in Bogotá decide to locate their points of sale in the upper strata since the inhabitants of these neighborhoods have a much greater economic capacity than in the lower strata, so the first objective of the work will be to find if there is a relationship between brands of international stature and their location in high-strata properties in Bogotá. I hope to do this by following the following steps:
 
@@ -43,7 +43,7 @@ Mi ciudad natal Bogotá, cuenta con una población cercana a 8 millones de habit
 Según The Economist, en el plano económico, Bogotá se destaca por su fortaleza económica asociada al tamaño de su producción, las facilidades para crear empresas y hacer negocios, la madurez financiera, la atracción de empresas globales y la calidad de su capital humano. Es el principal mercado de Colombia y de la Región Andina, y el primer destino de la inversión extranjera directa que llega a Colombia (70 %). Tiene el mayor PIB nominal y per cápita del país, aportando la mayor parte al total nacional (24,5 %), y es la sexta ciudad por tamaño del PIB en Latinoamérica (de unos USD 106 678 millones) con un PIB per cápita nominal de USD 11.594 y un PIB PPA per cápita de USD 20.120, igualmente es la plataforma empresarial más grande de Colombia en donde ocurren la mayoría de los emprendimientos de alto impacto. Las anteriores razones hacen que Bogotá sea objetivo empresarial de marcas reconocidas a nivel mundial.
 
 
-*comparar estratificación con puntos donde marcas internacionales se ubican
+* Comparar estratificación con puntos donde marcas internacionales se ubican
 
 Debido a la condición de estratificación se espera y como ciudadano he podido observar que la mayoría de marcas internacionales que llegan a Bogotá deciden ubicar sus puntos de ventas en los estratos altos puesto que los habitantes de estos barrios tienen una capacidad económica mucho mayor que en los estratos más bajos, por lo que como primer objetivo de trabajo será encontrar si hay una relación entre marcas de talla internacional y su ubicación en los predios de estratos altos en Bogotá. Esto espero realizarlo siguiendo los siguientes pasos: 
 
@@ -57,7 +57,7 @@ Debido a la condición de estratificación se espera y como ciudadano he podido 
   
   
 
-*Clusterizacion para contrastar con la estratificación
+* Clusterizacion para contrastar con la estratificación
 
 Otro análisis que me gustaría hacer es aplicar el método de clúster de los lugares de Bogotá en cuanto a las características de calidad, precio y tendencia para ver si hay una relación entre estas características y el estrato del predio donde está ubicado el lugar. Al aplicar el método de clúster se hará necesario clasificar los clúster en varias calidades de lugares, esperaría obtener un clúster en el que los lugares tengan calificaciones altas dadas por muchos usuarios, muchas opiniones y muchas fotos tomadas por usuarios este clúster sería el de los lugares con mejores características, seguramente también se verá un clúster en la que hay bajas calificaciones dadas por pocos usuarios y pocas opiniones estos serán considerados lugares  y dadas por pocos usuarios este sería el clúster con los lugares de peores características para el público. Una vez hecha esta clasificación de mejores a peores lugares por clúster se podrá definir en qué estrato están ubicados De esta forma podríamos ver si los mejores sitios están en los barrios donde habitan los ciudadanos con mayor capacidad adquisitiva (estratos 5 y 6)  o si están distribuidos de forma indistinta al estrato del barrio donde se ubican.
 
