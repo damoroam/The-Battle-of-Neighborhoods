@@ -5,12 +5,18 @@ Mi ciudad natal Bogotá, cuenta con una poblacion cercana a 8 millones de habita
 
 Según The Economist, en el plano económico, Bogotá se destaca por su fortaleza económica asociada al tamaño de su producción, las facilidades para crear empresas y hacer negocios, la madurez financiera, la atracción de empresas globales y la calidad de su capital humano. Es el principal mercado de Colombia y de la Región Andina, y el primer destino de la inversión extranjera directa que llega a Colombia (70 %). Tiene el mayor PIB nominal y per cápita del país, aportando la mayor parte al total nacional (24,5 %), y es la sexta ciudad por tamaño del PIB en Latinoamérica (de unos USD 106 678 millones) con un PIB per cápita nominal de USD 11.594 y un PIB PPA per cápita de USD 20.120, igualmente es la plataforma empresarial más grande de Colombia en donde ocurren la mayoría de los emprendimientos de alto impacto. Las anteriores razones hacen que bogota sea objetivo empresarial de marcas reconocidas a nivel mundial.
 
-Debido a la la condicion de estratificacion la mayoria de marcas internacionales que llegan a Bogota deciden ubicar sus puntos de ventas en los estratos altos puesto que los habitantes de estos barrios tienen una capacidad economica mucho mayor que en los estratos mas bajos
+Debido a la la condicion de estratificacion se espera y como ciudadano he podido observar que que la mayoria de marcas internacionales que llegan a Bogota deciden ubicar sus puntos de ventas en los estratos altos puesto que los habitantes de estos barrios tienen una capacidad economica mucho mayor que en los estratos mas bajos, por lo que como primer objetivo de trabajo sera encontrar si hay una relacion entre marcas de talla internacional y su ubicacion en los predios de estratos altos en Bogota. Esto espero realizarlo siguiendo los sguientes pasos: 
 
 -comparar estratificacion con puntos donde marcas internacionales se ubican
-  1- Listado de lugares de Bogota
-  2- Listado de marcas internacionales (scraping)
+  1- Listado de lugares de Bogota 
+  2- Listado de marcas internacionales (scraping de https://www.value.today/world/world-top-1000-companies y/o https://www.forbes.com/global2000/#5197437e335d)
   3- Del listado de lugares de Bogota solo nos quedamos con los lugares internacionales
   4- En que estrato estan ubicados los lugares internacionales (Uso del mapa JSON de estratificacion de bogota) se agrega un columna de estrato al DF
--Clusterizacion para contrastar con la estratificacion?
+ 
+Otra 
+-Clusterizacion para contrastar con la estratificacion
+  1- Obtener DF con el estrato de cada barrio
+  2- Agregar al DF de lugares de bogota una columna sobre su puntuacion, numero de valoraciones para su puntuacion, numero de comentarios y la opinion de precios dada por el publico
+  3- Hacer clustering usando 6 nodos de los tipos de lugares y agregar su etiqueta al DF
+  4- Comparar si el clustering obtenido es similar a la estratificacion de lugar
 
