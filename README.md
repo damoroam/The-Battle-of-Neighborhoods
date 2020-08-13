@@ -4,7 +4,7 @@ Project developed in the context of the course Applied Data Science Capstone
 English:
 
 
-RELATIONSHIP BETWEEN THE STRATUM AND THE LOCATION OF SITES IN BOGOTÁ
+RELATIONSHIP BETWEEN THE STRATUM AND THE LOCATION OF VENUES IN BOGOTÁ
 
 My hometown, Bogotá, has a population of close to 8 million inhabitants and is geographically divided into 20 towns, each with different characteristics, at the same time, each town is geographically divided by neighborhoods for a total of 1922 neighborhoods. In addition to this geographical division, Bogotá has a division by strata, each area of the city is classified depending on the characteristics of the dwellings, the urban environment of the area and the urban context. This is how the city is subdivided into 6 socio-economic strata, 1 being the lowest and 6 the highest. This in order to identify areas of action and distribute the cost of public services; where the highest strata subsidize the lowest and these at the same time can access educational or health benefits given the stratification. This has allowed the city to quickly identify vulnerable sectors and this is how, among other things, it has managed to guarantee free of charge to strata 1 and 2 the minimum vital consumption of water (the first and only city in Colombia). Based on the significant number of architectural, cultural, and historical heritage in the city of Bogotá, the heritage layer 1 was created, which provides the aforementioned benefits to the owners of these properties.
 
