@@ -30,10 +30,9 @@ Another analysis that I would like to do is to apply the cluster method of the p
   
   2- Clustering using 6 nodes of the types of places and add their label to the DF of the place
  
-Enviar comentarios
-Historial
-Guardadas
-Comunidad
+  3- Classify the 6 clusters according to the grouping characteristics from 1 to 6, with 6 being the best and 1 the worst
+  
+  4- Obtain graphs in which the results obtained and their respective analysis are evidenced.
 
 
 Español:
