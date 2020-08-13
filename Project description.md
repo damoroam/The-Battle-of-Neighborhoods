@@ -16,6 +16,7 @@ For the Bogotá mayor's office and the institutions that monitor the quality of 
 The quality of life indicators that are taken into account to give the quality of life index according to the Mercer firm (https://mobilityexchange.mercer.com/quality-of-living-reports) that placed Bogotá in position 128 Among more than 450 cities are the following: consumer goods, economic environment, accommodation, medical and health considerations, natural environment, political and social environment, public services and transportation, recreation, schools and education, sociocultural environment. Of the previous indicators, I consider that they are related to the information that can be obtained from FourSquare are the following consumer goods, economic environment, socio-cultural environment and recreation.
 
 * COMPARE STRATIFICATION WITH POINTS WHERE INTERNATIONAL BRANDS ARE LOCATED
+
 Due to the stratification condition it is expected and as a citizen I have been able to observe that the majority of international brands that arrive in Bogotá decide to locate their points of sale in the upper strata since the inhabitants of these neighborhoods have a much greater economic capacity than in the lower strata, so the first objective of the work will be to find if there is a relationship between brands of international stature and their location in high-strata properties in Bogotá. I hope to do this by following the following steps:
 
   1- Generate DF of places in Bogotá by request to FourSquare.
@@ -27,7 +28,8 @@ Due to the stratification condition it is expected and as a citizen I have been 
   4- From the list of places in Bogotá we only keep the international places.
   
   
-* Clusterization to contrast with stratification
+* CLUSTERIZATION IN CONTRAST WITH STRATIFICATION
+
 Another analysis that I would like to do is to apply the cluster method of the places in Bogotá in terms of quality, price and trend characteristics to see if there is a relationship between these characteristics and the stratum of the property where the place is located. When applying the cluster method it will be necessary to classify the clusters in various qualities of places, I would expect to obtain a cluster in which the places have high marks given by many users, many opinions and many photos taken by users this cluster would be the one of the places With better characteristics, surely you will also see a cluster in which there are low ratings given by few users and few opinions these will be considered places and given by few users, this would be the cluster with the worst characteristics for the public. Once this classification from best to worst places by cluster has been made, it will be possible to define in which stratum they are located.In this way we could see if the best places are in the neighborhoods where citizens with the highest purchasing power live (strata 5 and 6) or if they are distributed indistinctly to the stratum of the neighborhood where they are located.
 
   1- Add to the DF of places in Bogotá a column about your score, number of evaluations for your score, number of comments and the opinion of prices given by the public. The above information will be obtained through requests to FourSquare.
