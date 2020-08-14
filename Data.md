@@ -3,19 +3,21 @@ Below is the list of information that will be used
 * Stratification data from Bogota: https://datosabiertos.bogota.gov.co/dataset/manzana-estratificacion-bogota-d-c
 The previous link gives us a file in geoJSON format that contains all the city blocks and their respective stratum, each block is delimited by a polygon type figure.
 
-* Top 1000 of valuable brands in the world: https://www.value.today/world/world-top-1000-companies
+* Top 1000 of the best valued brands in the world: https://www.value.today/world/world-top-1000-companies
 
 
-* Top 2000 of valuable brands in the world: https://www.forbes.com/global2000/#5197437e335d
+* Top 2000 of the best valued brands in the world https://www.forbes.com/global2000/#5197437e335d
 
 The Project its divided in to parts
 
 PART 1: COMPARE STRATIFICATION WITH POINTS WHERE INTERNATIONAL BRANDS ARE LOCATED
 
-I hope to do this by following the following steps:
   1- Generate DF of places in Bogotá by request to FourSquare.
-  2- In which stratum are the international places located? (The stratification JSON map of Bogotá will be used https://datosabierto.bogota.gov.co/dataset/manzana-estratificacion-bogota-d-c) A stratum column is added to the DF.
-    3- List of international brands (scraping from https://www.value.today/world/world-top-1000-companies and / or https://www.forbes.com/global2000/#5197437e335d).
+  
+  2- In which stratum are the international places located? (The stratification JSON map of Bogotá will be used). A stratum column is added to the DF.
+  
+  3- List of international brands (scraping from top 1000 and 2000 of the best valued brands in the world)
+  
   4- From the list of places in Bogotá we only keep the international places.
   
   
