@@ -16,17 +16,17 @@ PART 1: COMPARE STRATIFICATION WITH POINTS WHERE INTERNATIONAL BRANDS ARE LOCATE
   
   2- In which stratum are the international places located? (The stratification JSON map of Bogotá will be used). A stratum column is added to the DF.
   
-  3- List of international brands (scraping from top 1000 and 2000 of the best valued brands in the world)
+  3- List of international brands (scraping from top 1000 and 2000 of the best valued brands in the world).
   
-  4- From the list of places in Bogotá we only keep the international places.
+  4- From the DF of places in Bogotá we only keep the international places.
   
   
 PART 2: Clusterization to contrast with stratification
 
-   1- Add to the DF of places in Bogotá a column about your score, number of evaluations for your score, number of comments and the opinion of prices given by the public. The above information will be obtained through requests to FourSquare.
+   1- Add to the DF of places in Bogotá a column about the venue score, number of evaluations for the score, number of comments and the opinion of prices given by the public. The above information will be obtained through requests to FourSquare.
   
-  2- Clustering using 6 nodes of the types of places and add their label to the DF of places
+  2- Clustering using 6 nodes of the types of places and add their label to the DF of places.
   
-  3- Classify the 6 clusters according to the grouping characteristics from 1 to 6, with 6 being the best and 1 the worst
+  3- Classify the 6 clusters according to the grouping characteristics from 1 to 6, with 6 being the best and 1 the worst.
   
   4- Obtain graphs in which the results obtained and their respective analysis are evidenced.
