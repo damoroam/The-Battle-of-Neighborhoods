@@ -28,7 +28,7 @@ Due to the stratification condition it is expected and as a citizen I have been 
   4- From the list of places in Bogotá we only keep the international places.
   
   
-* CLUSTERIZATION IN CONTRAST WITH STRATIFICATION
+* CLUSTERIZATION TO CONTRAST WITH STRATIFICATION
 
 Another analysis that I would like to do is to apply the cluster method of the places in Bogotá in terms of quality, price and trend characteristics to see if there is a relationship between these characteristics and the stratum of the property where the place is located. When applying the cluster method it will be necessary to classify the clusters in various qualities of places, I would expect to obtain a cluster in which the places have high marks given by many users, many opinions and many photos taken by users this cluster would be the one of the places With better characteristics, surely you will also see a cluster in which there are low ratings given by few users and few opinions these will be considered places and given by few users, this would be the cluster with the worst characteristics for the public. Once this classification from best to worst places by cluster has been made, it will be possible to define in which stratum they are located.In this way we could see if the best places are in the neighborhoods where citizens with the highest purchasing power live (strata 5 and 6) or if they are distributed indistinctly to the stratum of the neighborhood where they are located.
 
